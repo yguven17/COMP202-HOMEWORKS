@@ -1,0 +1,38 @@
+   Micheal     500111      false
+    Dwight     500222      false
+       Jim     500333      false
+---------------------------------
+   Micheal     500111      false
+    Dwight     500222      false
+       Pam     500444      false
+       Jim     500333      false
+     Oscar     500555      false
+---------------------------------
+     Kelly     500777      false
+   Micheal     500111      false
+     Creed     500666      false
+    Dwight     500222      false
+       Pam     500444      false
+       Jim     500333      false
+     Oscar     500555      false
+---------------------------------
+     Kelly     500777      false
+     Creed     500666      false
+    Dwight     500222      false
+       Pam     500444      false
+       Jim     500333      false
+     Oscar     500555      false
+---------------------------------
+       Jim     500333       true
+    Dwight     500222       true
+     Kelly     500777      false
+     Creed     500666      false
+       Pam     500444      false
+     Oscar     500555      false
+---------------------------------
+    Dwight     500222       true
+     Kelly     500777      false
+     Creed     500666      false
+       Pam     500444      false
+     Oscar     500555      false
+       Jim     500333      false

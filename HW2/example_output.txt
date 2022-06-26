@@ -1,0 +1,56 @@
+=======================
+{ totalScore: 5824.0, gamesPlayed: 10000 }
+{ totalScore: 242.0, gamesPlayed: 485 }
+{ totalScore: 173.0, gamesPlayed: 478 }
+{ totalScore: 220.0, gamesPlayed: 471 }
+{ totalScore: 131.0, gamesPlayed: 429 }
+{ totalScore: 288.0, gamesPlayed: 486 }
+{ totalScore: 71.0, gamesPlayed: 438 }
+{ totalScore: 4343.0, gamesPlayed: 6362 }
+{ totalScore: 146.0, gamesPlayed: 418 }
+{ totalScore: 210.0, gamesPlayed: 433 }
+=======================
+{ totalScore: 5604.0, gamesPlayed: 10000 }
+{ totalScore: 3962.0, gamesPlayed: 6040 }
+{ totalScore: 153.0, gamesPlayed: 468 }
+{ totalScore: 200.0, gamesPlayed: 467 }
+{ totalScore: 156.0, gamesPlayed: 454 }
+{ totalScore: 333.0, gamesPlayed: 572 }
+{ totalScore: 150.0, gamesPlayed: 453 }
+{ totalScore: 284.0, gamesPlayed: 644 }
+{ totalScore: 176.0, gamesPlayed: 466 }
+{ totalScore: 190.0, gamesPlayed: 436 }
+=======================
+{ totalScore: 6175.0, gamesPlayed: 10000 }
+{ totalScore: 194.0, gamesPlayed: 423 }
+{ totalScore: 174.0, gamesPlayed: 426 }
+{ totalScore: 257.0, gamesPlayed: 502 }
+{ totalScore: 181.0, gamesPlayed: 472 }
+{ totalScore: 4669.0, gamesPlayed: 6362 }
+{ totalScore: 131.0, gamesPlayed: 440 }
+{ totalScore: 191.0, gamesPlayed: 466 }
+{ totalScore: 151.0, gamesPlayed: 432 }
+{ totalScore: 227.0, gamesPlayed: 477 }
+=======================
+{ totalScore: 5966.0, gamesPlayed: 10000 }
+{ totalScore: 198.0, gamesPlayed: 464 }
+{ totalScore: 134.0, gamesPlayed: 443 }
+{ totalScore: 196.0, gamesPlayed: 444 }
+{ totalScore: 124.0, gamesPlayed: 463 }
+{ totalScore: 4606.0, gamesPlayed: 6357 }
+{ totalScore: 115.0, gamesPlayed: 447 }
+{ totalScore: 210.0, gamesPlayed: 502 }
+{ totalScore: 163.0, gamesPlayed: 450 }
+{ totalScore: 220.0, gamesPlayed: 430 }
+=======================
+{ totalScore: 5587.0, gamesPlayed: 10000 }
+{ totalScore: 366.0, gamesPlayed: 723 }
+{ totalScore: 145.0, gamesPlayed: 471 }
+{ totalScore: 183.0, gamesPlayed: 499 }
+{ totalScore: 147.0, gamesPlayed: 451 }
+{ totalScore: 236.0, gamesPlayed: 525 }
+{ totalScore: 138.0, gamesPlayed: 442 }
+{ totalScore: 216.0, gamesPlayed: 442 }
+{ totalScore: 115.0, gamesPlayed: 429 }
+{ totalScore: 4041.0, gamesPlayed: 6018 }
+=======================

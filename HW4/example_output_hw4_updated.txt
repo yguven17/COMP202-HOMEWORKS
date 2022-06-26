@@ -1,0 +1,55 @@
+null
+-----------
+Total number of possible locks: 1
+B
+-----------
+Total number of possible locks: 5
+C -> B
+C -> D
+C -> E
+C -> F
+C -> H
+-----------
+Total number of possible locks: 35
+D -> A -> B
+D -> A -> E
+D -> A -> F
+D -> A -> H
+D -> B -> A
+D -> B -> C
+D -> B -> E
+D -> B -> F
+D -> B -> G
+D -> B -> I
+D -> C -> B
+D -> C -> E
+D -> C -> F
+D -> C -> H
+D -> E -> A
+D -> E -> B
+D -> E -> C
+D -> E -> F
+D -> E -> G
+D -> E -> H
+D -> E -> I
+D -> G -> B
+D -> G -> E
+D -> G -> F
+D -> G -> H
+D -> H -> A
+D -> H -> C
+D -> H -> E
+D -> H -> F
+D -> H -> G
+D -> H -> I
+D -> I -> B
+D -> I -> E
+D -> I -> F
+D -> I -> H
+-----------
+4224
+-----------
+2448
+-----------
+null
+
